@@ -1,0 +1,17 @@
+body {
+  padding-bottom: 70px;
+}
+
+.my-flex-container {
+  border: 2px solid green;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.my-flex-container-column {
+  border: 2px solid blue;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+
